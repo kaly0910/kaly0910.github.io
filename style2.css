@@ -1,0 +1,299 @@
+*{
+			margin: 0;
+			padding: 0;}
+
+         .header{
+         	width: 1000px;
+         	height: 160px;
+         	background-color: #fff;
+         	margin: 0 auto;
+
+         }
+         .banner{
+         	width: 1000px;
+         	height: 470px;
+         	background-image: url(images/banner.jpg);
+         	margin: 0 auto;
+         	overflow: hidden;
+         }
+         .banner-inner{
+         	width: 1000px;
+         	height: 120px;
+         	margin-top: 155px;
+
+         
+
+         }
+         .banner-inner .prev{
+         	float: left;
+         	margin-top: 44px;
+
+         	cursor: pointer;
+         }
+         .banner-inner .next{
+         	float: right;
+         	margin-top: 44px;
+         	cursor: pointer;
+         	}
+         .banner-inner h3{
+         		text-align: center;
+         		
+         		color: blue;
+         		font-size: 40px;
+         	}
+         .banner-inner .lianxiwomen{
+         	margin-top: 72px;
+         	margin-left: 400px;
+         	float: right;
+         }
+
+         
+         .container{
+         	width: 1000px;
+         	height: 540px;
+         	
+         	margin: 0 auto;
+         }
+         .footer{
+         	width: 1000px;
+         	height: 330px;
+         	background-color: #562;
+         	margin: 0 auto;
+         }
+         .top{
+         	width: 1000px;
+         	height: 100px;
+         	background-color: #fff;
+         	margin: 0 auto;
+         }
+         .nav{
+         	width: 1000px;
+         	height: 60px;
+         	background-color: black;
+         	margin: 0 auto;
+         }
+         
+
+        .container-top{
+			width: 1000px;
+			height: 240px;
+			background-color: pink;
+		}
+		.container-bottom h3{
+			
+		}
+		.container-bottom{
+			width: 1000px;
+			height: 300px;
+			background-color: green;
+			overflow:hidden;
+		}
+		.container-bottom-1{
+			width: 210px;
+			height: 200px;
+		
+			float: left;
+			margin-top: 40px;
+			margin-left: 20px;
+		}
+		.container-bottom-1 span{
+			font-size: 17px;
+			color: red;
+		}
+		.container-bottom-2{
+			width: 210px;
+			height: 200px;
+			background-color: #a2f;
+			float: left;
+			margin-top: 40px;
+			margin-left: 20px;
+
+		}
+		.container-bottom-2 span{
+			font-size: 17px;
+			color: black;
+		}
+		.container-bottom-3{
+			width: 210px;
+			height: 200px;
+			background-color: #365;
+			float: left;
+			margin-top: 40px;
+			margin-left: 20px;
+		}
+		.container-bottom-4{
+			width: 210px;
+			height: 200px;
+			background-color: #c4f;
+			float: left;
+			margin-top: 40px;
+			margin-left: 20px;
+		}
+		.logo{
+			width: 200px;
+			height: 20px;
+			background-color: blue;
+			float: left;
+			margin-left: 20px;
+			margin-top: 40px;
+		}
+		.search{
+			width: 200px;
+			height: 20px;
+			background-color: #f1f1f1;
+			float: right;
+			margin: 20px;
+			margin-top: 40px;
+			border: 1px solid #e5e5e5;
+		}
+		.search span{
+			margin-left: 15;
+			color: #989898;
+			font-size: 12px;
+		}
+		.search img{
+			float: right;
+			margin-right: 15px;
+			margin-top: 5px;
+		}
+		.container-top-1{
+			width: 500px;
+			height: 240px;
+			background-color: #fff;
+			float: left;
+		}
+		.container-top-1 h3{
+			margin-left: 22px;
+			margin-top: 36px;
+			font-size: 17px;
+			color: #666666;
+		}
+		.container-top-1-list{
+			width: 450px;
+			height: 108px;
+			margin-top: 30px;
+			margin-left: 35px;
+			
+		}
+		.container-top-1-list li{
+			width: 450px;
+			color: #8e8e8e;
+			
+		}
+		.container-top-1-list span{
+			font-size: 12px;
+			float: right;
+			color: #666;
+		}
+		.container-top-1-list li a{
+			font-size: 12px;
+			color: #666;
+			text-decoration: none;
+		}
+		.container-top-2{
+			width: 240px;
+			height: 240px;
+			background-color: #CCC;
+			float: left;
+		}
+		.container-top-2 h3{
+			margin-top: 36px;
+			margin-left: 22px;
+			color: #606060;
+		}
+		.container-top-2 h4{
+			margin-top: 43px;
+			margin-left: 25px;
+			font-size: 14px;
+			color: #606060;
+		}
+		.container-top-2 span{
+			margin-left: 25px;
+			margin-top: 23px;
+			font-size: 12px;
+			color: #606060;
+		}
+		.container-top-2 p{
+			margin-left: 25px;
+			margin-top: 12px;
+			font-size: 12px;
+			color: #606060;
+		}
+		.container-top-3{
+			width: 260px;
+			height: 240px;
+			background-color: #aaa;
+			float: left;
+		}
+		.container-top-3 h3{
+			margin-top: 36px;
+			margin-left: 22px;
+			color: #606060;
+		}
+		.container-top-3 span{
+			margin-left: 25px;
+			margin-top: 30px;
+			color: #606060;
+			font-size: 12px;
+		}
+		.container-bottom h3{
+			color: grey;
+			font-size: 17px;
+			margin-top:26px;
+			margin-left: 22px;
+		}
+		
+		.footer-top{
+			width: 1000px;
+			height: 250px;
+			background-color: #6d6;
+		}	
+		.footer-bottom{
+			width: 1000px;
+			height: 80px;
+			background-color: #35d;
+		}
+		.footer-top-1{
+			width: 450px;
+			height: 160px;
+			background-color: #5d8;
+			float: left;
+			margin-left: 30px;
+			margin-top: 30px;
+		}
+		.footer-top-1-list{
+			margin-left: 20px;
+		}
+		.footer-top-1-mylist{
+			margin-left: 150px;
+			margin-top: -115px;
+
+		}
+		.footer-top-1-oo{
+			margin-left: 350px;
+			margin-top: -80px;
+		}
+
+		.footer-top-2{
+			width: 150px;
+			height: 100px;
+			background-color: white;
+			float: left;
+			margin-left: 60px;
+			margin-top: 30px;
+		}
+
+		.footer-top-2-list{
+			color: red;
+			margin-left: 15px;
+
+
+		}
+		.footer-top-3{
+			width: 250px;
+			height: 200px;
+			background-color: #ff0;
+			float: left;
+			margin-top: 30px;
+			margin-left: 60px;
+		}
